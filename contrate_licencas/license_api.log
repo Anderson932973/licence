@@ -1,0 +1,108 @@
+[2025-02-26 20:22:03] API iniciada
+[2025-02-26 20:22:03] POST: {"license_key":"35fff4a8-7130-7de7-7bf5-00ce0ea26bf7","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:22:07] API iniciada
+[2025-02-26 20:22:07] POST: {"license_key":"35fff4a8-7130-7de7-7bf5-00ce0ea26bf7","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:22:17] API iniciada
+[2025-02-26 20:22:17] POST: {"license_key":"35fff4a8-7130-7de7-7bf5-00ce0ea26bf7","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:23:17] API iniciada
+[2025-02-26 20:23:17] POST: {"license_key":"35fff4a8-7130-7de7-7bf5-00ce0ea26bf7","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:23:17] FCPATH definido como: /www/wwwroot/contratecrm.contratesolutions.com.br/
+[2025-02-26 20:23:17] APPPATH definido como: /www/wwwroot/contratecrm.contratesolutions.com.br/application/
+[2025-02-26 20:23:20] API iniciada
+[2025-02-26 20:23:20] POST: {"license_key":"35fff4a8-7130-7de7-7bf5-00ce0ea26bf7","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:23:20] FCPATH definido como: /www/wwwroot/contratecrm.contratesolutions.com.br/
+[2025-02-26 20:23:20] APPPATH definido como: /www/wwwroot/contratecrm.contratesolutions.com.br/application/
+[2025-02-26 20:23:29] API iniciada
+[2025-02-26 20:23:29] POST: {"license_key":"35fff4a8-7130-7de7-7bf5-00ce0ea26bf7","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:23:29] FCPATH definido como: /www/wwwroot/contratecrm.contratesolutions.com.br/
+[2025-02-26 20:23:29] APPPATH definido como: /www/wwwroot/contratecrm.contratesolutions.com.br/application/
+[2025-02-26 20:28:31] API iniciada
+[2025-02-26 20:28:31] Dados brutos recebidos: license_key=35fff4a8-7130-7de7-7bf5-00ce0ea26bf7&domain=contratecrm.contratesolutions.com.br&module=perfexbot
+[2025-02-26 20:28:31] Dados inválidos ou incompletos
+[2025-02-26 20:28:35] API iniciada
+[2025-02-26 20:28:35] Dados brutos recebidos: license_key=35fff4a8-7130-7de7-7bf5-00ce0ea26bf7&domain=contratecrm.contratesolutions.com.br&module=perfexbot
+[2025-02-26 20:28:35] Dados inválidos ou incompletos
+[2025-02-26 20:29:05] API iniciada
+[2025-02-26 20:29:05] Dados brutos recebidos: license_key=35fff4a8-7130-7de7-7bf5-00ce0ea26bf7&domain=contratecrm.contratesolutions.com.br&module=perfexbot
+[2025-02-26 20:29:05] Dados inválidos ou incompletos
+[2025-02-26 20:29:08] API iniciada
+[2025-02-26 20:29:08] Dados brutos recebidos: license_key=dfb3edeb-5ce3-2140-02f3-8676d2c2d941&domain=contratecrm.contratesolutions.com.br&module=perfexbot
+[2025-02-26 20:29:08] Dados inválidos ou incompletos
+[2025-02-26 20:29:22] API iniciada
+[2025-02-26 20:29:22] Dados brutos recebidos: license_key=dfb3edeb-5ce3-2140-02f3-8676d2c2d941&domain=contratecrm.contratesolutions.com.br&module=perfexbot
+[2025-02-26 20:29:22] Dados inválidos ou incompletos
+[2025-02-26 20:30:34] API iniciada
+[2025-02-26 20:30:34] Dados brutos recebidos: license_key=dfb3edeb-5ce3-2140-02f3-8676d2c2d941&domain=contratecrm.contratesolutions.com.br&module=perfexbot
+[2025-02-26 20:30:34] Dados processados: {"license_key":"dfb3edeb-5ce3-2140-02f3-8676d2c2d941","domain":"contratecrm.contratesolutions.com.br","module":"perfexbot"}
+[2025-02-26 20:30:34] Validando licença - Key: dfb3edeb-5ce3-2140-02f3-8676d2c2d941, Domain: contratecrm.contratesolutions.com.br, Module: perfexbot
+[2025-02-26 20:30:34] Tentando conectar ao banco...
+[2025-02-26 20:30:34] Host: localhost
+[2025-02-26 20:30:34] DB: contrate_crm
+[2025-02-26 20:30:34] Conectando ao banco: contrate_crm
+[2025-02-26 20:30:34] Erro: Access denied for user 'contrate_crm'@'localhost' (using password: YES)
+[2025-03-03 15:57:55] API iniciada
+[2025-03-03 15:57:55] Dados brutos recebidos: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 15:57:55] Dados processados: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 15:57:55] Validando licença - Key: 2a207c03-fc73-27dc-89d4-c9e5399e5ba7, Domain: contratecrm.contratesolutions.com.br, Module: contrateautoleads
+[2025-03-03 15:57:55] Tentando conectar ao banco...
+[2025-03-03 15:57:55] Host: localhost
+[2025-03-03 15:57:55] DB: sql_contratecrm_
+[2025-03-03 15:57:55] Conectando ao banco: sql_contratecrm_
+[2025-03-03 15:57:55] Conexão estabelecida
+[2025-03-03 15:57:55] Consultando tabela: tbl_contrate_licencas
+[2025-03-03 15:57:55] Erro: Table 'sql_contratecrm_.tbl_contrate_licencas' doesn't exist
+[2025-03-03 15:59:01] API iniciada
+[2025-03-03 15:59:01] Dados brutos recebidos: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 15:59:01] Dados processados: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 15:59:01] Validando licença - Key: 2a207c03-fc73-27dc-89d4-c9e5399e5ba7, Domain: contratecrm.contratesolutions.com.br, Module: contrateautoleads
+[2025-03-03 15:59:01] Tentando conectar ao banco...
+[2025-03-03 15:59:01] Host: localhost
+[2025-03-03 15:59:01] DB: sql_contratecrm_
+[2025-03-03 15:59:01] Conectando ao banco: sql_contratecrm_
+[2025-03-03 15:59:01] Conexão estabelecida
+[2025-03-03 15:59:01] Consultando tabela: tbl_contrate_licencas
+[2025-03-03 15:59:01] Erro: Table 'sql_contratecrm_.tbl_contrate_licencas' doesn't exist
+[2025-03-03 15:59:04] API iniciada
+[2025-03-03 15:59:04] Dados brutos recebidos: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 15:59:04] Dados processados: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 15:59:04] Validando licença - Key: 2a207c03-fc73-27dc-89d4-c9e5399e5ba7, Domain: contratecrm.contratesolutions.com.br, Module: contrateautoleads
+[2025-03-03 15:59:04] Tentando conectar ao banco...
+[2025-03-03 15:59:04] Host: localhost
+[2025-03-03 15:59:04] DB: sql_contratecrm_
+[2025-03-03 15:59:04] Conectando ao banco: sql_contratecrm_
+[2025-03-03 15:59:04] Conexão estabelecida
+[2025-03-03 15:59:04] Consultando tabela: tbl_contrate_licencas
+[2025-03-03 15:59:04] Erro: Table 'sql_contratecrm_.tbl_contrate_licencas' doesn't exist
+[2025-03-03 16:00:01] API iniciada
+[2025-03-03 16:00:01] Dados brutos recebidos: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 16:00:01] Dados processados: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 16:00:01] Validando licença - Key: 2a207c03-fc73-27dc-89d4-c9e5399e5ba7, Domain: contratecrm.contratesolutions.com.br, Module: contrateautoleads
+[2025-03-03 16:00:01] Tentando conectar ao banco...
+[2025-03-03 16:00:01] Host: localhost
+[2025-03-03 16:00:01] DB: sql_contratecrm_
+[2025-03-03 16:00:01] Conectando ao banco: sql_contratecrm_
+[2025-03-03 16:00:01] Conexão estabelecida
+[2025-03-03 16:00:01] Consultando tabela: tbl_contrate_licencas
+[2025-03-03 16:00:01] Erro: Table 'sql_contratecrm_.tbl_contrate_licencas' doesn't exist
+[2025-03-03 16:00:22] API iniciada
+[2025-03-03 16:00:22] Dados brutos recebidos: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 16:00:22] Dados processados: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 16:00:22] Validando licença - Key: 2a207c03-fc73-27dc-89d4-c9e5399e5ba7, Domain: contratecrm.contratesolutions.com.br, Module: contrateautoleads
+[2025-03-03 16:00:22] Tentando conectar ao banco...
+[2025-03-03 16:00:22] Host: localhost
+[2025-03-03 16:00:22] DB: sql_contratecrm_
+[2025-03-03 16:00:22] Conectando ao banco: sql_contratecrm_
+[2025-03-03 16:00:22] Conexão estabelecida
+[2025-03-03 16:00:22] Consultando tabela: tbl_contrate_licencas
+[2025-03-03 16:00:22] Erro: Table 'sql_contratecrm_.tbl_contrate_licencas' doesn't exist
+[2025-03-03 16:00:23] API iniciada
+[2025-03-03 16:00:23] Dados brutos recebidos: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 16:00:23] Dados processados: {"license_key":"2a207c03-fc73-27dc-89d4-c9e5399e5ba7","domain":"contratecrm.contratesolutions.com.br","module":"contrateautoleads"}
+[2025-03-03 16:00:23] Validando licença - Key: 2a207c03-fc73-27dc-89d4-c9e5399e5ba7, Domain: contratecrm.contratesolutions.com.br, Module: contrateautoleads
+[2025-03-03 16:00:23] Tentando conectar ao banco...
+[2025-03-03 16:00:23] Host: localhost
+[2025-03-03 16:00:23] DB: sql_contratecrm_
+[2025-03-03 16:00:23] Conectando ao banco: sql_contratecrm_
+[2025-03-03 16:00:23] Conexão estabelecida
+[2025-03-03 16:00:23] Consultando tabela: tbl_contrate_licencas
+[2025-03-03 16:00:23] Erro: Table 'sql_contratecrm_.tbl_contrate_licencas' doesn't exist
